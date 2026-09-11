@@ -1652,7 +1652,6 @@ Se descarta porque el volumen esperado no justifica la complejidad adicional.
 ### Pendiente de definir
 
 * [ ] Origen de horarios
-* [ ] Origen de calificaciones
 * [ ] Creación inicial de cuentas
 * [ ] Proceso de baja de usuarios
 * [ ] Esquema físico definitivo de base de datos
