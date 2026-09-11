@@ -201,7 +201,6 @@ Si no existe conexión, la aplicación muestra un aviso indicando que no hay con
 
 Esto evita mostrar información potencialmente desactualizada, especialmente:
 
-* Calificaciones.
 * Disponibilidad de equipos.
 * Estado de préstamos.
 * Estado de incidencias.
