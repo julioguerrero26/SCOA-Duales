@@ -1626,6 +1626,12 @@ Se descarta porque el MVP tiene únicamente tres perfiles estables.
 
 Se descarta porque el volumen esperado no justifica la complejidad adicional.
 
+### Módulo de calificaciones
+
+Se descartó la implementación del módulo de calificaciones para el MVP debido a la complejidad que implica cargar y mantener correctamente la información de las materias, grupos, docentes y calificaciones. Incorporar este módulo requeriría una estructura de datos más amplia y un proceso de carga que aumentaría considerablemente la complejidad del sistema.
+
+Por esta razón, se decidió mantener el alcance del proyecto enfocado en los procesos principales de operación académica: horarios, préstamos de equipo, incidencias y comunicaciones.
+
 ---
 
 # 📌 Estado del proyecto
