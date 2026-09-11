@@ -21,7 +21,6 @@ El sistema centraliza principalmente:
 * 💻 Gestión de préstamos de equipo de laboratorio.
 * 🛠️ Reporte y seguimiento de incidencias de infraestructura.
 * 📅 Consulta del horario del alumno.
-* 📊 Consulta de calificaciones publicadas.
 * 📢 Distribución de comunicados.
 * 📈 Consulta de indicadores administrativos.
 
@@ -72,7 +71,6 @@ El MVP no contempla un sistema dinámico para crear nuevos roles o modificar per
 | Recurso               | Alumno                  | Maestro                              | Directivo                     |
 | --------------------- | ----------------------- | ------------------------------------ | ----------------------------- |
 | Horario               | Leer propio             | Leer sus grupos                      | Leer todos                    |
-| Calificaciones        | Leer propias            | Leer sus grupos                      | Leer todas                    |
 | Catálogo de equipo    | Leer disponibilidad     | Leer                                 | Alta, edición y baja          |
 | Solicitud de préstamo | Crear / cancelar propia | —                                    | —                             |
 | Préstamo              | Leer propios            | Leer sus grupos / aprobar / rechazar | Leer todos                    |
