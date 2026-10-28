@@ -9,7 +9,7 @@
 ![Cron](https://img.shields.io/badge/background-node--cron-orange)
 ![Frontend](https://img.shields.io/badge/frontend-React%2018%20%2B%20Vite-61DAFB)
 
-> **SCOA** es una plataforma web integral diseñada para digitalizar, centralizar y optimizar procesos académicos y operativos en instituciones educativas: préstamos de laboratorio con control de concurrencia pesimista, seguimiento de incidencias mediante máquinas de estado, distribución segmentada de comunicados, consulta de horarios, eventos en tiempo real (SSE) y analítica administrativa mediante indicadores clave de rendimiento (KPIs).
+> **SCOA** <Es una plataforma web integral diseñada para digitalizar, centralizar y optimizar procesos académicos y operativos en instituciones educativas: préstamos de laboratorio con control de concurrencia pesimista, seguimiento de incidencias mediante máquinas de estado, distribución segmentada de comunicados, consulta de horarios, eventos en tiempo real (SSE) y analítica administrativa mediante indicadores clave de rendimiento (KPIs).
 
 ---
 
